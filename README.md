@@ -47,7 +47,7 @@ All dataset, modules, and models will be downloaded and installed on colab. Read
 ## Author
 * Ken Yeh, <kenyeh@matrixdata.club>
 ## Dataset
-[**train.csv**], [**test.csv**], [**sample_submission.csv**] are from [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started).
+**train.csv**, **test.csv**, **sample_submission.csv** are from [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started).
 This dataset was created by the company figure-eight and originally shared on their [‘Data For Everyone’ website here](https://www.figure-eight.com/data-for-everyone/).
 
 Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
